@@ -184,9 +184,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 **Mohd Ismail**
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: mdismailzzz02@gmail.com
+- GitHub: [@mdismailweb](https://github.com/mdismailweb)
 
 ## 📄 License
 

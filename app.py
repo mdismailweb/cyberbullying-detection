@@ -102,6 +102,8 @@ def main():
         - Training Data: 47,692 tweets
         
         **Developer:** Mohd Ismail  
+        **Email:** mdismailzzz02@gmail.com
+        **GitHub:** [mdismailweb](https://github.com/mdismailweb)
         **University:** Amity University Online  
         **Year:** 2025-26
         """)
