@@ -2,17 +2,27 @@
 
 An AI-powered web application that detects cyberbullying in social media text using Machine Learning.
 
-![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.31-red)
 ![Accuracy](https://img.shields.io/badge/Accuracy-92%25-success)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## 📸 Screenshots
+
+### Main Interface
+The app provides a clean, user-friendly interface for analyzing social media text.
+
+### Detection Results
+Real-time detection with confidence scores and recommendations.
 
 ## 🎯 Features
 
 - **Real-time Detection**: Instant analysis of social media text
 - **High Accuracy**: 92% accuracy using Multinomial Naive Bayes
-- **User-Friendly Interface**: Clean, intuitive web interface
+- **User-Friendly Interface**: Clean, intuitive web interface built with Streamlit
 - **Confidence Scores**: Shows prediction confidence for transparency
 - **Example Texts**: Pre-loaded examples to try
+- **Detailed Analysis**: View preprocessed text and probability scores
 
 ## 🚀 Try It Live
 
@@ -61,14 +71,23 @@ http://localhost:8501
 ```
 cyberbullying-detection/
 ├── app.py                      # Main Streamlit application
+├── training_notebook.ipynb     # Model training process
 ├── requirements.txt            # Python dependencies
 ├── models/
 │   ├── naive_bayes_model.pkl  # Trained ML model
 │   └── tfidf_vectorizer.pkl   # TF-IDF vectorizer
 ├── README.md                   # This file
-└── docs/
-    └── project_report.pdf      # Full project report
+└── LICENSE                     # MIT License
 ```
+
+## 📓 Training Notebook
+
+Check out [`training_notebook.ipynb`](training_notebook.ipynb) to see the complete model training process:
+- Data preprocessing
+- Feature extraction (TF-IDF)
+- Model training (4 algorithms compared)
+- Performance evaluation
+- Model selection
 
 ## 💡 How It Works
 
