@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.docx
+*.pdf
+*.zip
+data/
+figures/
+project_report/
+code/
+pandoc-3.1.11/
+*.txt
+!requirements.txt
+*.md
+!README.md
+deployment/
+.~lock*
