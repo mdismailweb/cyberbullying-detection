@@ -27,7 +27,9 @@ code/
 pandoc-3.1.11/
 *.txt
 !requirements.txt
+!runtime.txt
 *.md
+
 !README.md
 deployment/
 .~lock*
