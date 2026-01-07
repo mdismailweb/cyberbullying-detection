@@ -13,6 +13,7 @@ An AI-powered web application that detects cyberbullying in social media text us
 ## 📸 Screenshots
 
 ### Main Interface
+![Main Interface](screenshots/screenshot_main.png)
 The app provides a clean, user-friendly interface for analyzing social media text.
 
 ### Detection Results
