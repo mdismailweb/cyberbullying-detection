@@ -6,6 +6,9 @@ An AI-powered web application that detects cyberbullying in social media text us
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.31-red)
 ![Accuracy](https://img.shields.io/badge/Accuracy-92%25-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Live Demo](https://img.shields.io/badge/Demo-Click_Here-brightgreen)](https://cyberbullying-detection-ismail.streamlit.app/)
+[![Live Demo](https://img.shields.io/badge/Demo-Click_Here-brightgreen)](https://cyberbullying-detection-ismail.streamlit.app/)
+
 
 ## 📸 Screenshots
 
@@ -26,7 +29,7 @@ Real-time detection with confidence scores and recommendations.
 
 ## 🚀 Try It Live
 
-👉 **[Live Demo](https://your-app-name.streamlit.app)** *(Deploy first, then add link)*
+👉 **[Click Here to Open App](https://cyberbullying-detection-ismail.streamlit.app/)**
 
 ## 📊 Performance
 
